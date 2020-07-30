@@ -43,7 +43,7 @@
         "mongodb": "=0.9.8-1",
         "winston": "=0.5.2",
         "sqlite-fts": "=0.0.8",
-        "socket.io": "=0.8.5",
+        "socket.io": "=2.3.0",
         "socket.io-client": "=0.8.4",
         "jade": "= 0.20.0",
         "airbrake": "=0.2.2",
