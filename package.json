@@ -67,7 +67,7 @@
         "stack-trace": "0.0.5",
         "xmlbuilder": "0.1.2",
         "mime": "1.2.3",
-        "qs": "0.3.1",
+        "qs": "6.9.4",
         "asyncjs": "0.0.5",
         "colors": "0.5.0",
         "optimist": "0.2.6",
