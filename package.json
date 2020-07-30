@@ -16,7 +16,7 @@
     "dependencies": {
         "npm":"=1.1.1",
         "connect": "=1.8.5",
-        "express": "=2.5.4",
+        "express": "=4.17.1",
         "express-jsonstream": "=0.0.2",
         "async": "=0.1.15",
         "dropbox": "=0.3.3",
